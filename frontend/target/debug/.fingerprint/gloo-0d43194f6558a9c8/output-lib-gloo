@@ -1,0 +1,5 @@
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libwasm_bindgen_macro-e0d43883fa6693c0.so'
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libwasm_bindgen_macro_support-40c7826f330d7379.rmeta'
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libwasm_bindgen_macro_support-40c7826f330d7379.rlib'
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libserde_derive-ed8d0d34c0590f77.so'
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libthiserror_impl-cbf5831c40351cd5.so'

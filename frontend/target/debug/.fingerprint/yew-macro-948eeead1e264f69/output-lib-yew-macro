@@ -1,0 +1,1 @@
+WARN rustc_metadata::locator no metadata found: incompatible metadata version found: '/home/becaree/Projects/todo-list/frontend/target/debug/deps/libproc_macro_error_attr-fa41569334dccf0f.so'
